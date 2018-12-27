@@ -24,4 +24,4 @@ SUCCESSFUL? True
 
 By default, the script only reports the remaining number every 10 million strings, as the number of test cases grows exponentially. To change the length of strings to test, just change the value of n on line 138 of the script.
 
-Lamont, Andrew. 2019. Sour Grapes is phonotactically complex. Poster at #LSA 2019 Annual Meeting#. New York, NY. January 3. Abstract-reviewed.
+Lamont, Andrew. 2019. Sour Grapes is phonotactically complex. Poster at _LSA 2019 Annual Meeting_. New York, NY. January 3. Abstract-reviewed.
